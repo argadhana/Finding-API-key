@@ -9,7 +9,7 @@ you can clone this repo and build the project by running
 ## How to Use
 
 ```
-./Git-Secret
+go run main.go
 ```
 
 * For path contain list urls, you can fill it with url, for example
